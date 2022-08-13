@@ -1,0 +1,110 @@
+/* sfondo */
+
+body{
+  background-image:url(file:///C:/Users/alleg/Desktop/BOOLEAN/coding%20challenge/sfondo.jpg.jpg);
+  background-size: cover;
+}
+
+ .rettangolo1{
+  width:1500px;
+	height:1000px;
+	background:black;
+  margin: auto;
+  margin-top: 150px;
+   background-color: rgba(60,60,60,0.5);
+  border-radius: 10px 10px 10px 10px;
+}
+
+.logo{
+  height: 130px;
+  opacity: 2;
+}
+
+.testosottologo{
+  text-align: center;
+  color: lime;
+  font-size:50px;
+  font-family: sans-serif;
+}
+
+#rettangolo2{
+  width:1100px;
+	height:30px;
+	background:lime;
+  margin: auto;
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+div > button{
+  display: inline-block;
+}
+
+/* primo monopattino */
+div.monopattinoGino{
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding-left: 196px;
+  padding-top: 20px;
+  display: inline-block;
+
+}
+
+
+div.box_carica1{
+ width:150px;
+ height:30px;
+ background:orange;
+ padding-left: 196px;
+ margin-top: 1px;
+ border-radius: 10px 10px 10px 10px;
+ display: inline-block;
+
+}
+
+  /* secondo monopattino */
+
+.monopattinoMike24{
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding-left: 196px;
+  padding-top:20px;
+  display: inline-block;
+
+}
+
+
+.box_carica2{
+ width:400px;
+ height:30px;
+ background:green;
+ padding-left: 196px;
+ margin-top:1px;
+ border-radius: 10px 10px 10px 10px;
+ display: inline-block;
+
+}
+
+/* terzo monopattino */
+div.monopattinoFede154{
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding-left: 196px;
+  padding-top: 20px;
+}
+
+div.box_carica3{
+  width:40px;
+  height:30px;
+  background:red;
+  padding-left: 196px;
+  margin-top:1px;
+  border-radius: 10px 10px 10px 10px;
+  display: inline-block;
+
+}
